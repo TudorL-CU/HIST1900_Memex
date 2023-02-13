@@ -3,3 +3,5 @@ This folder will be where you eventually move notes to be part of your own perso
 > protip. You can find your note files on your machine by right-clicking a note in the left hand pane and selecting 'reveal in finder'. When we get to the point that you are putting materials online, you will need to be able to find this actual location on your machine.
 
 Index for Tudor's memex.
+
+SG triggers rebuild
