@@ -1,5 +1,7 @@
 Reading: @Telecommunications and Colonial Rivalry
+	
 	- how did the control of telegraph and communication lines in Africa and the Canary Islands influence communication in WWI?
+		
 		- #todo: research this
 
 Reading: @From Cabling the Atlantic to Wiring the World
