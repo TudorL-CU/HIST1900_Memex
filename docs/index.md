@@ -13,3 +13,16 @@ The other pages not called 'atomic notes' or 'readings' are a various assortment
 
 The features tab is pretty useless at this point, although I don't want to remove it because I don't know if it will break anything.
 
+
+[[0_Final_Journey_1]]
+
+
+[[0_Final_Journey_2]]
+
+
+Final map of content for this memex is as below:
+please ignore the small tree to the side about zotero stuff and hist1900c, I wasn't sure if removing that would cause anything to happen to my obsidian.
+
+
+
+![[Pasted image 20230427175512.png]]
