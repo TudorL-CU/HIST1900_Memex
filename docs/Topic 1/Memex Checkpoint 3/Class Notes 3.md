@@ -1,5 +1,5 @@
 March 13
-#todo prune these notes 
+ prune these notes 
 
 Time for the internet?
 Competences
