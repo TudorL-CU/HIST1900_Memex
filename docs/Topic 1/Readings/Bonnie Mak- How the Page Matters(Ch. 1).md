@@ -22,11 +22,14 @@
 		- letter forms can be seen as a reflection of the times
 - scholars often needed to refer to multiple texts at once
 	- organizational patterns allowed designers to set commentaries and put multiple texts on a single page
+		- in a way, this can be thought of as one of the earliest versions of the memex as talked about in [[Vannevar Bush- As We May Think]]
+			- #memex
 - Malcom Parkes notes that early copyists recognized the important role of headings and tables in the transmission of a text
 - placement of images on a page is a signal from designers on how those images are meant to be read
 - the page is a cultural artifact, and can be thought of as an early technological device
 - "readers interpret text, space, and image as they are inclined, but the meanings that they formulate are predicated upon the materiality of each carefully designed page"(pg 21)
 	- the page is an interface that represents an ongoing conversation between designer and reader
+
 
 
 Quotes and Annotations

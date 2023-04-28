@@ -8,6 +8,7 @@
 - in ancient times, libraries were devoted to acquisition and preservation of reading materials
 - ancient bibliographic information was stored on clay tablets
 - libary indexes and the way information was stored changed throughout the ages
+- what about the #context for what was recorded in libraries, what information was the most easily available, would that have affected education going forward?
 
 - in early days, cataloguing was a local and individual library practice
 	- each library constructed a catalogue best suited for its own purposes

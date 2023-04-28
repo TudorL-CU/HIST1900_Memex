@@ -1,3 +1,5 @@
+#memex
+
 - science has brought humans many great things
 	- improved food, clothing, shelter, increased security, increased knowledge of biological processes which leads to progressive freedom from 
 	  disease and an increased lifespan
@@ -39,6 +41,7 @@
 	- tying two items together by associative indexing
 	- the progresses made in science allow humans to do many things, to create a repository of knowledge with the effectiveness
 	  of that found in a memex would allow them to grow the human experience even more
+- relation to [[Mike Caulfield- The Garden and the Stream]] , Caulfield's representation of a memex is a garden.
 
 Quotes and Annotations
 - In this section you can find quotes I deemed important from the text.
@@ -50,3 +53,5 @@ to do: add more quotes and connections
 "A record, if it is to be useful to science, must be continuously extended, it must be stored, and above all it must be consulted."
 
 "Selection by association, rather than by indexing, may yet be mechanized. One cannot hope thus to equal the speed and flexibility with which the mind follows an associative trail, but it should be possible to beat the mind decisively in regard to the permanence and clarity of the items resurrected from storage."
+
+

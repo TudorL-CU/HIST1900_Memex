@@ -11,6 +11,7 @@
 - believes the way we collaborate on the web is out of balance
 	- says the predominant form of the social web(amalgam of twitter, instagram, facebook, etc.) is a poor model for learning
 	- get past the "web as conversation", focus on something more timeless and integrative
+This is the opposite of the web as we see it nowadays
 
 
 2. The garden and the stream
@@ -38,7 +39,7 @@
 
 3. The original garden
 
-- references Vannevar Bush's 'As We May Think'
+- references [[Vannevar Bush- As We May Think]]
 	- coincidence?? I think not, feel free to check out my notes on that article if you want some background info for this section, specifically the 'memex' section
 - the memex is not actually a publication device, but it is a tool to think with
 	- no replying or leaving comments, just linking to and annotating your own information or the information of others
@@ -46,6 +47,7 @@
 - connections are not conversation, but the construction of a model of a subject area
 	- this model can be taken by others and be extended or improved upon
 - Caulfield believes that through this method humanity can truly advance, not through conversation but by collaboration
+	- #memex 
 
 
 4. Enter the stream
@@ -57,6 +59,8 @@
 			- ex. news articles
 	- web became server centric
 		- good at distributed conversation, emergence of blogging
+		- distributed conversation mostly due to the way the internet was brought up
+	- 'conversation' such as those on BBSes, [[My Secret Life as an 11-Year-Old BBS Sysop]]
 	- twitter and other sites improved on this notion of blogging
 		- now you have a page that represents you, and then a 'feed' which represents others you're connected with
 	- because of these innovations, the web became a series of conversational trails instead of associative ideas
@@ -80,6 +84,8 @@
 - Tools
 	- Open Educational Resources can benefit greatly from garden type technologies
 	- open source textbooks for particular topics can be created easily using associative information
+
+This has direct implications on available information for education and research, [[Shiv Kumar- From Clay Tablets to Web]] also talks about how technology evolved education, libraries, and the like
 
 
 6. Green shoots
@@ -109,3 +115,7 @@ to do: add more quotes and connections
 "In other words, the Stream replaces topology with serialization. Rather than imagine a timeless world of connection and multiple paths, the Stream presents us with a single, time ordered path with our experience (and only our experience) at the center."
 
 "we can imagine a world, I think, so much better than this one, if only we can get our heads out of the Stream for a bit, and build the Garden we need."
+
+
+
+tags: #garden 
