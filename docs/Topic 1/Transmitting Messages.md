@@ -10,7 +10,7 @@ historiography
 	- evaluation of historians themselves
 
 Winston's framework
-	- supervening social necessity
+	- supervening social necessity #necessity 
 	- innovation does not come out of nowhere, it comes out of a need for something/it has a role to fill
 	- suppression of radical potential
 		- in a new technology, things will try to push it forward, but things will also try to pull it back/make it safe
@@ -52,7 +52,7 @@ Winston's framework
 - international telegraphy
 	- 1842 Morse puts experimental cable across the New York Harbour
 	- 1852 Frederic Gisborne lays cable between New Brunswick and PEI
-	- 1858 the Atlantic was crossed
+	- 1858 the Atlantic was crossed, read [[From Cabling the Atlantic to Wiring the World]] for more info
 		- unwinding cable as the ship crosses the atlantic
 		- takes them 3 tries to get the cable working
 		- few weeks later it stops working because Edward Whitehouse tries limit testing
@@ -69,3 +69,4 @@ Winston's framework
 	- equivalent material to plastic for that time period
 	- can use it as an insulator
 	- without gutta percha, there is no trans-atlantic cable and as a result no long distance telegraphy
+	- #colonialism played a role in cabling the world

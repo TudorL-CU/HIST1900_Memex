@@ -16,6 +16,7 @@ classifications both reflect and direct our thinking. The way we order represent
 	- ex. libraries, ownership of libraries equates to ownership of knowledge
 	- libraries reflect the world back to itself 
 		- makes them targeted 
+		- if parties can control who owns the knowledge, then they can control how knowledge is distributed #context 
 
 printing press
 	- enabled fast replication of messages
@@ -25,8 +26,8 @@ Melvil Dewey(1851-1931)
 	- created a universal system for cataloguing books
 		- most public libraries use this system even today
 
-Memex
-	- Vannevar Bus
+#memex 
+	- [[Vannevar Bush- As We May Think]]
 	- associative indexing
 		- any item may be caused at will to select immediately and automatically another item so that numerous items have been
 		  thus joined together to form a trail
@@ -38,7 +39,7 @@ invention of the digital computer does not happen long after these large shifts 
 	- original idea of hypertext is not the same as what it is today
 		- you see what the article is based on, and you see future work that uses that article
 	- today, hypertext is just a one way pointer from a citation to a source
-z
+
 
 - tags are hashtags that allow you to tag what notes are about
 
@@ -69,3 +70,4 @@ When you hear a story like this, ask yourself
 	- where are the gaps/what is left out
 	- where are the women in this story
 	- what other things had to have happened to support all this?
+	- #context 
