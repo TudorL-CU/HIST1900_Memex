@@ -13,6 +13,7 @@ assemblage theory
 	- the meaning depends on the context
 		- nothing is meaningful on its own
 		- a pot does not exist as the pot itself, but rather as the joining of different components of the pot
+- assemblage theory is especially important when looking at [[Vannevar Bush- As We May Think]] , the relations between pieces of information attributes more meaning to them
 
 perspectivism
 	- the way we record information matters
@@ -26,6 +27,7 @@ a network is present whenever there is a relationship between two entities along
 	- networks provide a formal mechanism through which computation can happen
 		- computation is inherent to the shape of the network
 	- components of a networked history are not just the technical objects, but also the assemblage
+- the assemblage of networks to make the internet, the physical relationships between networks and humans, example would be [[The Evolution of the Internet – Understanding Media and Culture]]
 
 questions to ask when researching/learning
 	- what are the social/political/economic contexts of things?
