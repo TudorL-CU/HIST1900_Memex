@@ -17,7 +17,9 @@ European countries realized that controlling communication was instrumental in c
 
 Atlantic archipelagos became important for the role in intercontinental telegraphy
 
+[[Atomic Notes 2]] expands a bit more on imperialism and colonialism, [[From Cabling the Atlantic to Wiring the World]] talks about how telecommunications advances increased the capabilities of colonialism and how colonies could have been made in places previously thought unreasonable
 
+#colonialism 
 
 **Key Quotes**
 

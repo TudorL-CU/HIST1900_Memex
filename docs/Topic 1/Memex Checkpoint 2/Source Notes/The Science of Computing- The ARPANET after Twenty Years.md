@@ -9,7 +9,7 @@ The ARPANET(Advanced Research Projects Agency Network) was the first public pack
 
 The origins of the ARPANET come from the late 1950's, when the Department of Defense was concerned about the durability of their communication network in the case of a nuclear first strike attack against the US. After investigation, Paul Baran concluded that the most durable network would be a distributed network in which the loss of a number of nodes/links would not affect the sending of information from one node to another.
 
-The rapid growth of the network led to a reworking of the end-to-end protocol, changing it from NCP(Network Control Protocol), to a pair of protocols called TCP(Transport Control Protocol) and IP(Internet Protocol). 
+The rapid growth of the network led to a reworking of the end-to-end protocol, changing it from NCP(Network Control Protocol), to a pair of protocols called TCP(Transport Control Protocol) and IP(Internet Protocol). A background of TCP/IP protocols can be found in [[A Protocol for Packet Network Intercommunication]]
 
 - ***note: TCP/IP protocols are still the dominant communication model even today in 2023***
 

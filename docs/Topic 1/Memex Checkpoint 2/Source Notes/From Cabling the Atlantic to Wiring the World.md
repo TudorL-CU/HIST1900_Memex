@@ -23,6 +23,9 @@ The cables made imperalism possible where it seemed unlikely
 The instantaneous messaging using telegraphy and the medium in which telegraphy was used(immaterial communication) gave way to innovations such as futures trading that were previously not possible
 
 
+[[Telecommunications and Colonial Rivalry- European Telegraph Cables to the Canary Islands and Northwest Africa,1883-1914]] also talks about a similar topic
+
+#colonialism 
 
 
 **Key Quotes**
