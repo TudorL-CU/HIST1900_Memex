@@ -28,7 +28,7 @@ There is a dramatic difference in scale of income in different parts of the buil
 
 Capitalism conceals from the consumer the process that goes behind making a product
 
-
+#context 
 
 
 

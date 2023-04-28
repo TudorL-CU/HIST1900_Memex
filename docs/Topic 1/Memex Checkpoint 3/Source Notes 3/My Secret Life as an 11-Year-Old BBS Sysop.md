@@ -16,8 +16,10 @@ The author then reminisces on his other experiences running a BBS.
 
 
 @Thoughts: how to relate this to commercialization of the internet in [[Atomic Notes 3]]? The popularity of specific bulletins leads to more traffic to those bulletins, those bulletins end up being referenced by other bulletins, and so on? Was the commercialization of the internet and the ensuing enshittification of the internet doomed to happen as soon as consumer created spaces took hold?
+- To this end, would the inherent ability of the internet to be commercialized cause a #necessity to occur?
 #enshittification 
 
+What role did BBSes play in the evolution of the internet as outlined in [[The Evolution of the Internet – Understanding Media and Culture]] , did they speed up or slow down improvements in the modern internet? related to the point above. 
 
 
 

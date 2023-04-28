@@ -11,8 +11,7 @@ The article provides an overview of the development and evolution of the interne
 
 The article explains concepts like 'decentralization', and looks at the history of the internet, starting with research on safe transmission of information during the Cold War. A decentralized network would help in the case of a bombing, as even if a few nodes were destroyed, information could still be transmitted using the surviving nodes.
 
-
-Multiple developments were made in order to get the Internet we have today, such as TCP/IP protocols and HTTP. The article also makes sure to go over the cultural impact things like Usenet, GeoCities, and Yahoo had on the Internet.
+Multiple developments were made in order to get the Internet we have today, such as TCP/IP protocols and HTTP(check [[A Protocol for Packet Network Intercommunication]] for more info). The article also makes sure to go over the cultural impact things like Usenet, GeoCities, and Yahoo had on the Internet. 
 
 
 

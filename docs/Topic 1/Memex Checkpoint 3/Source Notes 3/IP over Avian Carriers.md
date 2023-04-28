@@ -7,7 +7,7 @@ Wikipedia, IP over Avian Carriers, https://en.wikipedia.org/wiki/IP_over_Avian_C
 **Summary**
 
 
-IP over Avian carriers is a joke concerning the carrying of IP traffic(packets) by homing pigeons. 
+IP over Avian carriers is a joke concerning the carrying of IP traffic(packets) by homing pigeons. (background knowledge for IP communication can be found in [[A Protocol for Packet Network Intercommunication]])
 
 Due to the inconsistent method of delivering packets, IP over Avian Carriers suffers from high latency(haha) and a high degree of packet loss(eaten by eagles?)
 
