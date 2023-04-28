@@ -1,6 +1,8 @@
 (Mis)use of AI
 - AI will lead to massive changes in society. However without proper guidelines and organizations to monitor the use of AI, there will dangerous consequences as a result of those who use it inappropriately
 	- Billionaires today already have a stranglehold on a large amount of wealth, will AI make it easier to maintain and increase that wealth, or will it somehow lead to that wealth being more spread out amongst the public?
+- will ai have a place in modern #colonialism ?
+	- being able to give bias to AI and use it maliciously to underhandedly enforce one's own values 
 #ai
 
 
