@@ -2,15 +2,16 @@ Imperialism/Colonialism
 
 - Telegraphy set new horizons for imperialism. Countries could communicate and govern their colonies with much more effectiveness and efficiency. 
 	- How does this tie into the future, which colonies get more political power, which ones get a headstart on technological advancement due to telegraph lines?
-		- @Thoughts
-		- #todo link specific atomic notes to thoughts, this one would be linking to the readings on telegraph lines in Africa and the one on Wiring the World
+		- [[Thoughts]] on communication in WWI
+		- read [[From Cabling the Atlantic to Wiring the World]] for more background on how networking and imperialism/colonialism are connected
+		- #colonialism
 
 
 
-Erasure of Women
+Women in technology
 
 - Women were incredibly involved in operating telegraph lines and operating early computers. Their names are erased from history. The first programmers were women, compared to today where programming is thought of as a mostly male profession.
-	- #todo add proper linkages to class notes after you sort them out
+	- 
 
 
 
@@ -21,4 +22,4 @@ Social Necessity
 	- does the geography of a country influence necessities?
 		- @Thoughts for more detail
 	- Money as a necessity
-		- #todo: expand this and make it its own atomic note
+		-: expand this and make it its own atomic note

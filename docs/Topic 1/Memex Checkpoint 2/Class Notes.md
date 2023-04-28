@@ -1,4 +1,4 @@
-#todo these notes are a mess. Categorize them into specific lectures or topics and link them to your source notes/atomic notes
+ these notes are a mess. Categorize them into specific lectures or topics and link them to your source notes/atomic notes
 
 
 greek word 'tele' and 'phone' meaning 'far sound'
@@ -14,7 +14,6 @@ the missing piece
 	  that pressure
 	- Kelvin had earlier shown that resistence to electricity in a wire could be modified by putting the wire under tension
 - theory of language
-	- 
 
 the first sound recording was not a sound recording per se, but rather an image of the soundwaves
 
@@ -100,6 +99,7 @@ Alan Turing
 		- functions with boolean expressions
 		- operates with bits
 		- uses punch cards that you feed into the machine
+- how would the history of the internet look if Turing wasn't prosecuted for his identity? The historical timeline that Turing inhabits would look a lot different, America might not have the same power over the internet they do now
 
 combine information theory with Turing's universal computer and you have a way for a machine computer to simulate any of the work tat a human computer could do
 
@@ -242,3 +242,4 @@ idea of time sharing
 	- different groups can share times on a computer to run different operations separately
 	- might lead to one of the original ideas of the internet
 - bulletin board in the 1970s
+	- [[My Secret Life as an 11-Year-Old BBS Sysop]]
