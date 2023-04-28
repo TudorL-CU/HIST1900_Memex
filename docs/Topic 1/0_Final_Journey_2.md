@@ -2,12 +2,12 @@
 
 
 ## The Journey Between 3-atomic_notes/Mediums and Messages and website/The Science of Computing- The ARPANET after Twenty Years
-- [[3-atomic_notes/Mediums and Messages]]
-- [[website/Vannevar Bush- As We May Think]]
-- [[3-atomic_notes/Archaeology, Theoretical Framework]]
-- [[Memex 3/The Evolution of the Internet – Understanding Media and Culture]]
-- [[Memex 3/A Protocol for Packet Network Intercommunication]]
-- [[website/The Science of Computing- The ARPANET after Twenty Years]]
+- [[Mediums and Messages]]
+- [[Vannevar Bush- As We May Think]]
+- [[Archaeology, Theoretical Framework]]
+- [[The Evolution of the Internet – Understanding Media and Culture]]
+- [[A Protocol for Packet Network Intercommunication]]
+- [[The Science of Computing- The ARPANET after Twenty Years]]
 
 
 

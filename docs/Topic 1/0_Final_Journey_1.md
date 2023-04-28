@@ -4,10 +4,10 @@
 
 ## The Journey Between Memex 3/Comparing Digital Divides- Internet Access and Social Inequality in Canada and the United States and Memex 3/The Evolution of the Internet – Understanding Media and Culture
 - [[Comparing Digital Divides- Internet Access and Social Inequality in Canada and the United States]]
-- [[Memex 3/Thoughts 3]]
-- [[Memex 3/Atomic Notes 3]]
-- [[Memex 3/My Secret Life as an 11-Year-Old BBS Sysop]]
-- [[Memex 3/The Evolution of the Internet – Understanding Media and Culture]]
+- [[Thoughts 3]]
+- [[Atomic Notes 3]]
+- [[My Secret Life as an 11-Year-Old BBS Sysop]]
+- [[The Evolution of the Internet – Understanding Media and Culture]]
 
 (Side routes)
 - between [[Thoughts 3]] and [[Atomic Notes 3]] I would have the context tag. 
